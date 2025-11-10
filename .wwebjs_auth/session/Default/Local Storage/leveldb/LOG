@@ -1,0 +1,5 @@
+2025/11/10-14:58:34.991 3310 Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/11/10-14:58:34.996 3310 Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/10-14:58:34.997 3310 Recovering log #4
+2025/11/10-14:58:34.998 3310 Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2025/11/10-14:58:34.998 3310 Delete type=2 #5
