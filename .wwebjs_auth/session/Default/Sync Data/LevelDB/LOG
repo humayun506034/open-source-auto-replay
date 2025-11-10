@@ -1,4 +1,4 @@
-2025/11/10-14:58:34.948 18c Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
-2025/11/10-14:58:34.954 18c Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
-2025/11/10-14:58:34.954 18c Recovering log #3
-2025/11/10-14:58:34.954 18c Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 
+2025/11/10-17:19:24.638 41f0 Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2025/11/10-17:19:24.652 41f0 Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/11/10-17:19:24.652 41f0 Recovering log #3
+2025/11/10-17:19:24.652 41f0 Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

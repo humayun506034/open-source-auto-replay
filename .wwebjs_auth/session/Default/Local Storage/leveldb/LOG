@@ -1,5 +1,6 @@
-2025/11/10-14:58:34.991 3310 Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
-2025/11/10-14:58:34.996 3310 Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/11/10-14:58:34.997 3310 Recovering log #4
-2025/11/10-14:58:34.998 3310 Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
-2025/11/10-14:58:34.998 3310 Delete type=2 #5
+2025/11/10-17:19:24.679 2690 Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/11/10-17:19:24.688 2690 Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/10-17:19:24.689 2690 Recovering log #4
+2025/11/10-17:19:24.689 2690 Level-0 table #3: started
+2025/11/10-17:19:24.693 2690 Level-0 table #3: 18563 bytes OK
+2025/11/10-17:19:24.696 2690 Delete type=0 #4

@@ -1,3 +1,4 @@
-2025/11/10-14:55:07.100 3678 Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
-2025/11/10-14:55:07.100 3678 Recovering log #3
-2025/11/10-14:55:07.101 3678 Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 
+2025/11/10-15:24:03.346 3b9c Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
+2025/11/10-15:24:03.353 3b9c Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/11/10-15:24:03.353 3b9c Recovering log #3
+2025/11/10-15:24:03.353 3b9c Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 

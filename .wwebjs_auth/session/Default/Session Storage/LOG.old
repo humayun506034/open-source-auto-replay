@@ -1,3 +1,4 @@
-2025/11/10-14:55:07.075 3608 Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
-2025/11/10-14:55:07.076 3608 Recovering log #3
-2025/11/10-14:55:07.077 3608 Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Session Storage/000003.log 
+2025/11/10-15:24:03.313 3f1c Creating DB C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Session Storage since it was missing.
+2025/11/10-15:24:03.321 3f1c Reusing MANIFEST C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2025/11/10-15:24:03.322 3f1c Recovering log #3
+2025/11/10-15:24:03.323 3f1c Reusing old log C:\Users\Humayun\Desktop\New folder (3)\.wwebjs_auth\session\Default\Session Storage/000003.log 
